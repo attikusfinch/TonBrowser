@@ -1,4 +1,4 @@
-# TonBrowser
+# Ton Browser
 
 TON Browser is an application that supports the decentralized network called .ton. This browser enables users to interact with the .ton network and access various decentralized applications, websites, and services that are built on this network.
 
