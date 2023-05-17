@@ -8,12 +8,12 @@ _______
 
 ## Features
 
-:- Seamless and secure browsing experience
-:- Advanced security features to protect data and privacy
-:- Access to the TON blockchain for secure and decentralized asset management
-:- Ability to interact with decentralized applications (dApps) built on the .ton network
-:- User-friendly interface for users of all levels of technical proficiency
-:- Regular updates and new features to enhance the browsing experience
+- Seamless and secure browsing experience
+- Advanced security features to protect data and privacy
+- Access to the TON blockchain for secure and decentralized asset management
+- Ability to interact with decentralized applications (dApps) built on the .ton network
+- User-friendly interface for users of all levels of technical proficiency
+- Regular updates and new features to enhance the browsing experience
 
 ## Contributing
 
